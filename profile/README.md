@@ -1,0 +1,3 @@
+# AI as Infrastructure (AIINFRA) Project
+This is the GitHub home for the https://aiinfra.anu.edu.au project. AIINFRA will explore whether Large Language Models (LLMs) could enable a new era of transnational historical research. The project will run from 2024 – 2026 and be led by the HASS Digital Research Hub at The Australian National University. The project team includes representatives from the Australian Parliamentary Library, the National Library of Australia, the Aotearoa / New Zealand Department of Internal Affairs, the UK National Archives, the UK History of Parliament project, and the ANU Library, with academic input from King’s College London. Indigenous guidance is provided by the Scaffolding Cultural Co-Creativity project, and Taiuru & Associates Ltd.
+
